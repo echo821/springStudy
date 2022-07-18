@@ -9,4 +9,5 @@ import org.springframework.stereotype.Component;
 public class student {
     @Value("xiaoming")
     private String name;
+    private String kk;
 }
